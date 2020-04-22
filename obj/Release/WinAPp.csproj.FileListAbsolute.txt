@@ -1,0 +1,14 @@
+C:\Users\nicstim\source\repos\WinAPp\bin\Release\WinAPp.exe.config
+C:\Users\nicstim\source\repos\WinAPp\bin\Release\WinAPp.exe
+C:\Users\nicstim\source\repos\WinAPp\bin\Release\WinAPp.pdb
+C:\Users\nicstim\source\repos\WinAPp\obj\Release\WinAPp.csprojAssemblyReference.cache
+C:\Users\nicstim\source\repos\WinAPp\obj\Release\WinAPp.Form1.resources
+C:\Users\nicstim\source\repos\WinAPp\obj\Release\WinAPp.Form2.resources
+C:\Users\nicstim\source\repos\WinAPp\obj\Release\WinAPp.Properties.Resources.resources
+C:\Users\nicstim\source\repos\WinAPp\obj\Release\WinAPp.csproj.GenerateResource.cache
+C:\Users\nicstim\source\repos\WinAPp\obj\Release\WinAPp.exe
+C:\Users\nicstim\source\repos\WinAPp\obj\Release\WinAPp.pdb
+C:\Users\nicstim\source\repos\WinAPp\bin\Release\WinAPp.exe.manifest
+C:\Users\nicstim\source\repos\WinAPp\bin\Release\WinAPp.application
+C:\Users\nicstim\source\repos\WinAPp\obj\Release\WinAPp.exe.manifest
+C:\Users\nicstim\source\repos\WinAPp\obj\Release\WinAPp.application
